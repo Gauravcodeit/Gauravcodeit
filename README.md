@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-🔭 I'm a Frontend Developer with 2.5 years of working experience and holding a master degree in computer applications.
-⚡ Skilled in Javascript, Typescript, Angular 12+, and React.js by implementing the code that is robust, maintainable, and performant, facilitating future development efforts.
-⚡ Excellent problem-solving and analytical skills.
-👯 Strong communication and collaborative skills, with the ability to work effectively in a team.
-🌱 I've gained expertise in software engineering, covering the complete software development cycle, object-oriented programming concepts, data structures, and algorithms.
+## 🔭 I'm a Frontend Developer with 2.5 years of working experience and holding a master degree in computer applications.
+## ⚡ Skilled in Javascript, Typescript, Angular 12+, and React.js by implementing the code that is robust, maintainable, and performant, facilitating future development efforts.
+## ⚡ Excellent problem-solving and analytical skills.
+## 👯 Strong communication and collaborative skills, with the ability to work effectively in a team.
+## 🌱 I've gained expertise in software engineering, covering the complete software development cycle, object-oriented programming concepts, data structures, and algorithms.
 
-📫 HackerRank Profile- https://www.hackerrank.com/profile/adhikarigaurav82
-📫 GitHub Profile- https://github.com/Gauravcodeit
+# 📫 HackerRank Profile- https://www.hackerrank.com/profile/adhikarigaurav82
+# 📫 GitHub Profile- https://github.com/Gauravcodeit
 
