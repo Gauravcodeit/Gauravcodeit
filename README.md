@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 ###### 🔭 I'm a Frontend Developer with 2.5 years of working experience and holding a master degree in computer applications.
 ###### ⚡ Skilled in Html, Css,  Javascript, Typescript,React.js, Angular 12+, and Redux by implementing the code that is robust, maintainable, and performant, facilitating future development efforts.
