@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###### 🔭 I'm a Frontend Developer with 2.8 years of working experience and holding a master degree in computer applications.
+###### 🔭 I'm a Frontend Developer with 3 years of working experience and holding a master degree in computer applications.
 ###### ⚡ Skilled in Html, Css,  Javascript, Typescript,React.js, Angular 12+, and Redux by implementing the code that is robust, maintainable, and performant, facilitating future development efforts.
 ###### ⚡ Excellent problem-solving and analytical skills.
 ###### 👯 Strong communication and collaborative skills, with the ability to work effectively in a team.
